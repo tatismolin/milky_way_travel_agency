@@ -1,0 +1,3 @@
+development:
+adapter: sqlite3
+database: db/travel_db.sqlite3

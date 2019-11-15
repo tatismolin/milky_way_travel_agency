@@ -1,7 +1,7 @@
    **MILKY WAY TRAVEL AGENCY**
    
    _Interstellar travel at your fingertips!_
-   ![background](/lib/images/background.jpg)
+   ![background](/1.png)
    
    **About:** Mod1 project by Tatiana and Mez. Use our app to find information on major planets in our Solar System.
    

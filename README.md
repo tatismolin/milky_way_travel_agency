@@ -1,7 +1,7 @@
    **MILKY WAY TRAVEL AGENCY**
    
    _Interstellar travel at your fingertips!_
-   ![background](/1.png)
+   ![background](https://i.cbc.ca/1.3638138.1479852274!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/milky-way-concordia-pakistan.jpg)
    
    **About:** Mod1 project by Tatiana and Mez. Use our app to find information on major planets in our Solar System.
    
